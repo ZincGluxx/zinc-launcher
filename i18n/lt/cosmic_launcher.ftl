@@ -1,2 +1,2 @@
-app-name = COSMIC Launcher
+app-name = Zinc Launcher
 type-to-search = Norint ieškoti, pradėkite rašyti, o norinti matyti daugiau parinkčių - įveskite „?“...

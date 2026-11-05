@@ -1,6 +1,6 @@
 # Testing
 
-This document provides a regression testing checklist for the COSMIC Launcher. The checklist provides a starting point for Quality Assurance reviews.
+This document provides a regression testing checklist for the Zinc Launcher. The checklist provides a starting point for Quality Assurance reviews.
 
 ## Checklist
 
@@ -12,11 +12,11 @@ This document provides a regression testing checklist for the COSMIC Launcher. T
 - [ ] Typing text and then removing it will re-show the open windows
 - [ ] Search works for applications and windows
 - [ ] Open windows are sorted above applications (e.g. "firefox")
-- [ ] Search works for COSMIC settings panels
+- [ ] Search works for Zinc settings panels
 - [ ] t: executes a command in a terminal
 - [ ] : executes a command in sh
 - [ ] = calculates an equation
 - [ ] Search results are as expected:
     - `cal` returns LibreOffice Calc first
     - `pops` returns Popsicle first
-    - `shop` returns the COSMIC Store first
+    - `shop` returns the Zinc Store first

@@ -5,7 +5,7 @@
   <metadata_license>CC0</metadata_license>
   <project_license>GPL-3.0-only</project_license>
   <name>Launcher</name>
-  <summary>COSMIC frontend for Pop Launcher</summary>
+  <summary>Zinc frontend for Pop Launcher</summary>
   <url type="homepage">https://github.com/pop-os/cosmic-launcher</url>
   <url type="bugtracker">https://github.com/pop-os/cosmic-launcher/issues</url>
   <content_rating type="oars-1.0" />

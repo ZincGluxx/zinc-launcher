@@ -1,5 +1,5 @@
-app-name = Peluncur COSMIC
+app-name = Peluncur Zinc
 type-to-search = Ketik untuk mencari apps atau tipe "?" informasi lainnya...
 xdg-name = Peluncur
-xdg-comment = Frontend COSMIC untuk Peluncur Pop
+xdg-comment = Frontend Zinc untuk Peluncur Pop
 xdg-keywords = Peluncur

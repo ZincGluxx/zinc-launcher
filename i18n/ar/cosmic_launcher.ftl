@@ -1,2 +1,2 @@
-app-name = مُشغِّل COSMIC
+app-name = مُشغِّل Zinc
 type-to-search = اكتب للبحث عن التطبيقات أو اكتب "?" لمزيد من الخيارات...

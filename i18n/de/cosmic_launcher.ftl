@@ -1,5 +1,5 @@
-app-name = COSMIC Starter
+app-name = Zinc Starter
 type-to-search = Tippe, um Apps zu durchsuchen, oder tippe „?“ für weitere Optionen ...
 xdg-name = Starter
-xdg-comment = Das COSMIC Frontend für Pop Launcher
+xdg-comment = Das Zinc Frontend für Pop Launcher
 xdg-keywords = Starter

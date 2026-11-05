@@ -1,2 +1,2 @@
-app-name = COSMIC ਲਾਂਚਰ
+app-name = Zinc ਲਾਂਚਰ
 type-to-search = ਐਪ ਖੋਜਣ ਲਈ ਲਿਖੋ ਜਾਂ ਹੋਰ ਚੋਣਾਂ ਲਈ "?" ਲਿਖੋ...

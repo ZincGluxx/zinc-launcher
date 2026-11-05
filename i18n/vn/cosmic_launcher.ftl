@@ -1,2 +1,2 @@
-app-name = Trình khởi chạy COSMIC
+app-name = Trình khởi chạy Zinc
 type-to-search = Nhập để tìm ứng dụng hoặc gõ “?” để xem thêm tùy chọn...

@@ -1,5 +1,5 @@
-app-name = COSMIC Indító
+app-name = Zinc Indító
 type-to-search = Gépelj az alkalmazások kereséséhez, vagy „?” a további lehetőségekért…
 xdg-name = Indító
 xdg-keywords = Indító
-xdg-comment = A Pop Launcher COSMIC-felülete
+xdg-comment = A Pop Launcher Zinc-felülete

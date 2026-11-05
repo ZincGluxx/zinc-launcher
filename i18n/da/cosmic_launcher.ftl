@@ -1,2 +1,2 @@
-app-name = COSMIC Starter
+app-name = Zinc Starter
 type-to-search = Tast for at søge i apps eller tast “?” for flere valgmuligheder...

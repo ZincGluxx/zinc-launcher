@@ -1,2 +1,2 @@
-app-name = COSMIC Launcher
+app-name = Zinc Launcher
 type-to-search = Ketik kanggo nggoleki aplikasi utawa ketik "?" kanggo opsi liyane ...

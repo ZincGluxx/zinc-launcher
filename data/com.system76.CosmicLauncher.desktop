@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Launcher
-Comment=The COSMIC frontend for Pop Launcher
+Comment=The Zinc frontend for Pop Launcher
 Type=Application
 Exec=cosmic-launcher
 Terminal=false

@@ -1,10 +1,10 @@
-# Cosmic Launcher
+# Zinc Launcher
 
-Layer Shell frontend for https://github.com/pop-os/launcher. Currently the underlying protocol being used in the plugin for managing toplevels in wayland is defined [here](https://github.com/pop-os/cosmic-protocols/blob/main/unstable/cosmic-toplevel-info-unstable-v1.xml) but it will be switched to use [wlr-foreign-toplevel-management](https://wayland.app/protocols/wlr-foreign-toplevel-management-unstable-v1) when it is ready.
+Layer Shell frontend for https://github.com/ZincGluxx/zinc-pop-launcher. Currently the underlying protocol being used in the plugin for managing toplevels in wayland is defined [here](https://github.com/ZincGluxx/zinc-protocols/blob/main/unstable/cosmic-toplevel-info-unstable-v1.xml) but it will be switched to use [wlr-foreign-toplevel-management](https://wayland.app/protocols/wlr-foreign-toplevel-management-unstable-v1) when it is ready.
 
 # Building
 
-Cosmic Launcher is set up to build a deb and a Nix flake, but it can be built using just.
+Zinc Launcher is set up to build a deb and a Nix flake, but it can be built using just.
 
 Some Build Dependencies:
 ```
